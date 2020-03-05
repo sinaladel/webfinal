@@ -1,0 +1,37 @@
+html {
+    background-color: #2BFF30;
+}
+.box {
+    color: #FFFF00;
+    background-color: #762D20;
+}
+header {
+    color: #FECCFD;
+    background-color: #0984CD;
+    flex: 1;
+    min-width: 200px;
+    max-width: 800px;
+    border: 10px solid #ffccff;
+}
+footer {
+    color: #C8FFFF;
+    background-color: #568E18;
+    flex: 1;
+    min-width: 200px;
+    max-width: 800px;
+    height: 50px;
+    border: 10px solid #000099;
+    position: fixed;
+    
+    bottom: bottom;
+}
+#container {
+    display: flex;
+    flex-direction: column;
+}
+.box {
+    flex: 1;
+    border: 2px solid #FF00FF;
+    min-width: 50px;
+    max-width: 100px;
+}

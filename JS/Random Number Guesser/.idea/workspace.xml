@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3f6a16c-f381-49d2-860d-c878b1796940" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YM8ymKgvinrM00NtB8naMyKud6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Weather widget" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sina\Documents\skool\Q2\Web\JS\Random Number Guesser" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3f6a16c-f381-49d2-860d-c878b1796940" name="Default Changelist" comment="" />
+      <created>1582741359517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582741359517</updated>
+      <workItem from="1582741361140" duration="82000" />
+      <workItem from="1582741453228" duration="1748000" />
+      <workItem from="1582761672081" duration="660000" />
+      <workItem from="1583273340617" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="828" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582743033636">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="828" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1582743033636" />
+    <state x="1170" y="222" key="FileChooserDialogImpl" timestamp="1583273360373">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1170" y="222" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1583273360373" />
+    <state x="461" y="167" key="SettingsEditor" timestamp="1582741442312">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="167" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1582741442312" />
+    <state x="532" y="239" key="run.anything.popup" timestamp="1582743038407">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="532" y="239" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1582743038407" />
+  </component>
+</project>

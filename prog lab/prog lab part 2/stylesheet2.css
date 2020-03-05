@@ -1,0 +1,70 @@
+html {
+    background-image: url(Aeroplane.jpg);
+    font-family: Helvetica, Arial, sans-serif;
+    color: blue;
+}
+
+header {
+    text-align: center;
+    margin: 100px 100px 100px 100px;
+}
+
+nav {
+    text-align: center;
+    position: fixed;
+    top: 10px;
+    left: 740px;
+}
+
+li {
+    display: inline;
+    padding: 10px;
+}
+
+
+p {
+    text-align: center;
+    margin: 5px 100px 5px 100px;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    left: 825px;
+    text-align: center;
+}
+
+#table {
+    position: fixed;
+    /* margin: 100px 100px 100px 100px; */
+    text-align: center;
+    left: 775px;
+}
+
+#gif {
+    position: fixed;
+    left: 745px;
+    top: 500px;
+}
+
+#off-sites {
+    text-align: center;
+    color: black;
+
+}
+
+.quote {
+    text-align: center;
+    position: fixed;
+    left: 725px;
+    margin: 40px;
+}
+
+.cardImage {
+    position: fixed;
+    left: 700px;
+    top: 500px;
+}
+
+/* This one isn't based off of anything, just mostly the same design in px instead of % and with lists being horizontal. Much more of a challenge to do without %s */

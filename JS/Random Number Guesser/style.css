@@ -1,0 +1,21 @@
+HTML {
+    background-color: #3aff33
+}
+.button {
+    position: fixed;
+    cursor: pointer;
+    border: 1px solid ;
+    border-radius: 10px;
+    margin: 10% 45% 10% 45%;
+    color: #31cbd6;
+}
+#myInputBox {
+    position: fixed;
+    margin: 7.5% 40% 10% 42%;
+    background-color: #04c71b;
+}
+p{
+    position: fixed;
+    margin: 5% 40% 10% 42%;
+    color: #ff0019;
+}

@@ -1,0 +1,52 @@
+html{
+    background-color: #000;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #FF00A1;
+}
+header {
+    text-align: center;
+}
+nav {
+    position: absolute;
+    font-size: x-large;
+    top: 45%;
+    left: 5%;
+}
+p {
+    margin: 0% 30% 0% 30%;
+}
+a {
+    color: #FF82A9;
+    
+}
+footer {
+    position: fixed;
+    bottom: 2.5%;
+    left: 44%
+}
+#table {
+    position: fixed;
+    text-align: center;
+    margin: 20% 40% 0% 40%;
+}
+#gif {
+    position: fixed;
+    margin: 2.5% 38% 0% 38%;
+}
+#off-sites {
+
+    text-align: center;
+    right: 25%;
+    left: 25%; 
+}
+.quote {
+    position: fixed;
+    text-align: center;
+    margin: 30% 40% 0% 40%;
+}
+.cardImage {
+    position: fixed;
+    text-align: center;
+    margin: 4% 35% 0% 35%;
+}
+/*DISCLAIMER: This website was made to intentionally look like the 2001 Hillary Duff official fan website. https://mtv.mtvnimages.com/uri/mgid:file:http:shared:mtv.com/news/wp-content/uploads/2015/04/HilaryDuff-1429111042.png?quality=.8&height=344.5350734094617&width=800*/
